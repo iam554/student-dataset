@@ -1,0 +1,101 @@
+Student ID,Department,Level,Attendance Percentage,Average Examination Score
+STU0001,Economics,200,84,94.2
+STU0002,Chemistry,400,78,47.6
+STU0003,Biology,300,92,39.3
+STU0004,Computer Science,300,92,62.0
+STU0005,Physics,400,55,85.1
+STU0006,Computer Science,400,71,37.0
+STU0007,Economics,400,50,35.3
+STU0008,Mathematics,400,79,49.6
+STU0009,Physics,100,76,68.9
+STU0010,Computer Science,100,99,98.0
+STU0011,Mathematics,400,69,39.6
+STU0012,Economics,300,100,60.4
+STU0013,Economics,300,86,83.2
+STU0014,Chemistry,200,62,50.1
+STU0015,Computer Science,100,83,47.8
+STU0016,Chemistry,200,92,50.0
+STU0017,Mathematics,200,58,77.2
+STU0018,Physics,100,65,69.0
+STU0019,Computer Science,400,59,67.4
+STU0020,Chemistry,300,61,45.9
+STU0021,Biology,400,77,97.9
+STU0022,Chemistry,300,95,37.3
+STU0023,Mathematics,100,70,51.2
+STU0024,Physics,100,98,39.3
+STU0025,Chemistry,100,64,44.1
+STU0026,Biology,400,61,51.4
+STU0027,Physics,300,79,74.5
+STU0028,Mathematics,100,89,55.4
+STU0029,Economics,200,51,39.4
+STU0030,Physics,100,64,39.7
+STU0031,Biology,200,75,58.4
+STU0032,Computer Science,100,94,73.1
+STU0033,Biology,300,100,48.7
+STU0034,Physics,200,88,41.5
+STU0035,Economics,400,93,38.7
+STU0036,Mathematics,200,52,83.9
+STU0037,Economics,100,57,83.4
+STU0038,Biology,400,58,42.7
+STU0039,Economics,300,57,58.4
+STU0040,Computer Science,100,85,73.8
+STU0041,Mathematics,100,82,37.5
+STU0042,Computer Science,200,89,94.3
+STU0043,Computer Science,400,66,35.8
+STU0044,Physics,400,57,45.1
+STU0045,Economics,200,54,86.0
+STU0046,Computer Science,100,83,97.6
+STU0047,Chemistry,300,88,62.3
+STU0048,Computer Science,200,85,67.4
+STU0049,Chemistry,400,99,36.6
+STU0050,Computer Science,400,92,46.9
+STU0051,Biology,300,77,37.3
+STU0052,Biology,100,67,49.8
+STU0053,Physics,100,99,83.7
+STU0054,Chemistry,300,66,92.4
+STU0055,Biology,100,77,45.9
+STU0056,Biology,300,70,60.0
+STU0057,Economics,400,77,90.3
+STU0058,Computer Science,300,90,37.6
+STU0059,Physics,300,86,68.9
+STU0060,Economics,300,59,99.7
+STU0061,Chemistry,200,57,77.7
+STU0062,Chemistry,100,58,41.6
+STU0063,Computer Science,400,61,44.7
+STU0064,Mathematics,400,67,85.6
+STU0065,Physics,400,91,91.4
+STU0066,Economics,100,71,80.0
+STU0067,Economics,400,53,56.3
+STU0068,Chemistry,400,64,75.5
+STU0069,Biology,300,96,63.6
+STU0070,Chemistry,100,95,57.2
+STU0071,Physics,200,75,86.0
+STU0072,Physics,100,83,85.1
+STU0073,Physics,400,98,65.2
+STU0074,Physics,400,89,88.6
+STU0075,Economics,400,81,71.8
+STU0076,Physics,400,99,37.4
+STU0077,Physics,300,91,59.6
+STU0078,Computer Science,100,86,77.0
+STU0079,Economics,100,100,61.5
+STU0080,Physics,200,88,53.1
+STU0081,Mathematics,300,67,53.9
+STU0082,Computer Science,400,95,94.7
+STU0083,Biology,100,87,97.0
+STU0084,Computer Science,100,68,39.4
+STU0085,Economics,100,98,85.1
+STU0086,Computer Science,400,70,83.4
+STU0087,Economics,200,50,60.2
+STU0088,Mathematics,300,96,88.7
+STU0089,Mathematics,200,80,61.1
+STU0090,Physics,400,66,95.8
+STU0091,Biology,100,73,91.2
+STU0092,Physics,300,82,49.0
+STU0093,Mathematics,200,61,40.9
+STU0094,Economics,400,75,61.8
+STU0095,Biology,300,51,78.8
+STU0096,Physics,300,51,75.3
+STU0097,Economics,200,50,77.7
+STU0098,Chemistry,400,70,66.0
+STU0099,Biology,200,85,59.1
+STU0100,Physics,400,95,38.9
